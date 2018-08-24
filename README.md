@@ -15,3 +15,6 @@ Please run the DeepSort.py file to train the model. You can modilify the length 
 After code will save the model once completed training. you can access it later on in test_sort.py. 
 I currently have random numbers to test, but you can set your own arrays. 
 
+![Training](../master/img/Deepsort training.jpg)
+
+![Testing](../master/img/Capture.jpg)
