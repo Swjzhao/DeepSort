@@ -17,4 +17,4 @@ I currently have random numbers to test, but you can set your own arrays.
 
 ![Training](https://github.com/Swjzhao/DeepSort/blob/master/img/Deepsort%20training.jpg)
 
-![Testing](../master/img/Capture.jpg)
+![Testing](https://github.com/Swjzhao/DeepSort/blob/master/img/Capture.jpg)
