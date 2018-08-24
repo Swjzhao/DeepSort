@@ -15,6 +15,12 @@ Please run the DeepSort.py file to train the model. You can modilify the length 
 After code will save the model once completed training. you can access it later on in test_sort.py. 
 I currently have random numbers to test, but you can set your own arrays. 
 
+Training took 8hrs 30 min:
+
 ![Training](https://github.com/Swjzhao/DeepSort/blob/master/img/Deepsort%20training.jpg)
+
+Results: 
+loss: 0.107
+accuracy: 96.2%
 
 ![Testing](https://github.com/Swjzhao/DeepSort/blob/master/img/Capture.JPG)
